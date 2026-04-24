@@ -323,7 +323,7 @@ function App() {
               rel="noreferrer"
               target="_blank"
             >
-              © 2024 OYU INTELLIGENCE LLC / SYSTEMS OPERATIONAL
+              © 2026 OYU INTELLIGENCE LLC / SYSTEMS OPERATIONAL
             </a>
 
             <div className="pb-10" />
